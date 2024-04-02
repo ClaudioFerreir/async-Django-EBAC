@@ -1,1 +1,2 @@
-# async-Django-EBAC
+# EBAC Task 
+## Asychronous Views in Django
